@@ -1,0 +1,3 @@
+Macroptimize 0.3.0 Changelog:
+
+Added a new feature where you can use ctrl+alt+x to run the last ran macro!

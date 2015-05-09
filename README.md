@@ -7,7 +7,7 @@ Macroptimize
 
 ## Installation
 
-Install this plugin with [Package Control](https://sublime.wbond.net/).
+Install this plugin with [Package Control](https://packagecontrol.io/packages/Macroptimize).
 
 ## Usage
 
@@ -15,12 +15,10 @@ Just ctrl+alt+z and select which macro to run.
 
 ## TODO
 
--Repeat until end of file setting (maybe even per macro)
--Replace current buffer macro with last run macro
--Key binding for running last selected macro
+- Repeat until end of file setting (maybe even per macro)
+- Replace current buffer macro with last run macro
+- ~~Key binding for running last selected macro~~
 
 ## Miscellaneous
 
 ##### Any questions or issues with the plugin, please let me know: johnwiegert@outlook.com
-
-Please go easy on me if any of this is poor python style, this was my first time using the language for a project.

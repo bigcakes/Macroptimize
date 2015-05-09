@@ -1,5 +1,16 @@
 [
     { 
-        "keys": ["ctrl+alt+z"], "command": "macroptimize"
+        "keys": ["ctrl+alt+z"],
+        "command": "macroptimize",
+        "args": {
+            "runLast": false
+        }
+    },
+    { 
+        "keys": ["ctrl+alt+x"],
+        "command": "macroptimize",
+        "args": {
+            "runLast": true
+        }
     }
 ]

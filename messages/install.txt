@@ -1,0 +1,9 @@
+Macroptimize:
+
+To get started, just use ctrl+alt+z (or your system equivalent) to select a macro to run.
+
+If you want to run the last macro you run, just use ctrl+alt+x.
+
+If you have any feedback about Macroptimize, or any features you would like added please reach out to me on Github or johnwiegert@outlook.com.
+
+Have fun!
