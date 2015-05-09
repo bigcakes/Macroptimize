@@ -3,7 +3,7 @@ Macroptimize
 
 ##### A plugin for Sublime Text 3 to make working with macros less clunky.
 
-##### Allows for quick selection of any macro to run in Sublime packages.
+##### Allows for quick selection of any macro to run in Sublime packages, or easy repetition of the last macro.
 
 ## Installation
 
@@ -11,7 +11,7 @@ Install this plugin with [Package Control](https://packagecontrol.io/packages/Ma
 
 ## Usage
 
-Just ctrl+alt+z and select which macro to run.
+Just ctrl+alt+z and select which macro to run or if you have already ran a macro, press ctrl+alt+x to run the last macro again!
 
 ## TODO
 
