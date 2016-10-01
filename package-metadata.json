@@ -1,1 +1,0 @@
-{"sublime_text": ">=3000", "platforms": ["*"], "version": "0.3.0", "url": "https://github.com/bigcakes/Macroptimize", "description": "A Sublime Text 3 Plugin for making working with macros less clunky", "dependencies": []}
