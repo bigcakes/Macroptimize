@@ -1,0 +1,16 @@
+[
+	{
+		"caption": "Macroptimize: Select Macro",
+		"command": "macroptimize",
+		"args": {
+			"runLast": false
+		}
+	},
+	{
+		"caption": "Macroptimize: Run Last Macro",
+		"command": "macroptimize",
+		"args": {
+			"runLast": true
+		}
+	}
+]

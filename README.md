@@ -13,6 +13,8 @@ Install this plugin with [Package Control](https://packagecontrol.io/packages/Ma
 
 Just ctrl+alt+z and select which macro to run or if you have already ran a macro, press ctrl+alt+x to run the last macro again!
 
+Or select commands `Macroptimize: Select Macro` and `Macroptimize: Run Last Macro` in command palette.
+
 ## TODO
 
 - Repeat until end of file setting (maybe even per macro)
